@@ -89,6 +89,7 @@ Secure = lse
 ; Redis 相关
 [Redis]
 Server = 127.0.0.1:6379
+User = 
 Password =
 DB = 0
 
